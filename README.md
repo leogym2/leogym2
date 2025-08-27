@@ -3,3 +3,4 @@
 🎓 BSc in Management Engineering @ Politecnico di Milano  
   
 💡 I’m passionate about applying Data Science in real-world domains, from medicine to robotics.
+📫 [Linkedin](https://www.linkedin.com/in/leonardo-palestra/)
